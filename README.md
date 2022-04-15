@@ -1,5 +1,6 @@
 # TailwindCss-ResumeCard
 A responsive Resume Card with tailwind css
+see preview at : https://amirmahdyjebreily.github.io/TailwindCss-ResumeCard/
 
 on desktop : 
 
