@@ -7,4 +7,9 @@ on desktop :
   
 on mobile :  
 
-![responsivetailwindcssresumecard](/assets/images/mobile.png "Mobile responsive")  
+![responsivetailwindcssresumecard](assets/images/Mobile.png "Mobile responsive") 
+
+
+on tablet :  
+
+![responsivetailwindcssresumecard](assets/images/Tablet.png "Tablet responsive")  
